@@ -1,1 +1,1 @@
-# Simple-Password-Generator-using-secrets-module
+Password Generator A lightweight terminal tool for generating strong, random passwords — because "password123" isn't cutting it.  About Weak passwords are one of the most common ways accounts get hacked. This script fixes that — no internet required, no dependencies, just Python. Run it, pick a length, and get a random password built from letters, numbers, and symbols.
